@@ -1,12 +1,12 @@
 # Pickle Rick
 
+Este documento detalla todo el proceso de enumeración, análisis, explotación y escalamiento realizado sobre la máquina **10.201.17.154**, acompañado de todas las evidencias y capturas usadas durante el pentest.
+
 <p align="left">
   <a href='report-picklerick.pdf.pdf'>
     <img width="50%" src="assets/report-pickle_rick.jpg" alt="Pickle Rick Report" />
   </a>
 </p>
-
-Este documento detalla todo el proceso de enumeración, análisis, explotación y escalamiento realizado sobre la máquina **10.201.17.154**, acompañado de todas las evidencias y capturas usadas durante el pentest.
 
 ---
 
